@@ -1,0 +1,7 @@
+.idea/
+cmake-build-debug/
+core/CMakeLists.txt
+core/a.out.dSYM/
+parser/CMakeLists.txt/
+parser/a.out/
+parser/old
